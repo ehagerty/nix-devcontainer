@@ -2,6 +2,18 @@
 
 ![workflow status](https://github.com/xtruder/nix-devcontainer/actions//workflows/ci.yml/badge.svg)
 
+> [!WARNING]
+> This repository is deprecated and no longer maintained.
+> Scheduled builds have been disabled and no further releases are planned.
+
+## Alternatives
+
+If you are looking for actively updated Nix devcontainer setups, see:
+
+- [lucernae/devcontainer-nix](https://github.com/lucernae/devcontainer-nix)
+- [zimbatm/vscode-devcontainer-nix](https://github.com/zimbatm/vscode-devcontainer-nix)
+- [hellodword/devcontainers.nix](https://github.com/hellodword/devcontainers.nix)
+
 
 ## Summary
 

@@ -1,8 +1,7 @@
 name: rebuild release
 
 on:
-  schedule:
-    - cron: '0 10 * * *' # everyday at 10am
+  workflow_dispatch:
 
 jobs:
   docker:
